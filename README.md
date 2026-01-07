@@ -78,5 +78,5 @@ How to Run the Project
 Clone the repository:git clone https://github.com/your-username/personal-task-manager.git
 
 Navigate to the project folder:cd personal-task-manager
-<img src="assets/screenshots/home.empty.jpg" width="200" />
+![image alt](image_url)
 
