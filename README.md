@@ -78,8 +78,5 @@ How to Run the Project
 Clone the repository:git clone https://github.com/your-username/personal-task-manager.git
 
 Navigate to the project folder:cd personal-task-manager
-
-Get dependencies:flutter pub get
-
-Run the app:flutter run
+![image alt](https://github.com/Djkhalz/flutter_Assignment/blob/0a82eff770193aaeb87153dae27e0704f9b791e9/screenshots/home.screen.jpg)
 
