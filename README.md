@@ -82,3 +82,4 @@ Navigate to the project folder:cd personal-task-manager
 Get dependencies:flutter pub get
 
 Run the app:flutter run
+
