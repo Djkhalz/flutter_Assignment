@@ -78,5 +78,5 @@ How to Run the Project
 Clone the repository:git clone https://github.com/your-username/personal-task-manager.git
 
 Navigate to the project folder:cd personal-task-manager
-![image alt](image_url)
+![image alt](https://github.com/Djkhalz/flutter_Assignment/blob/564cbb3922316ece799ed44b2431f1d548e5eb50/screenshots/home.screen.jpg)
 
